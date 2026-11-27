@@ -186,10 +186,10 @@
   "fcs_keys_rc": {
     "fcs_keys": {
       "rc": {
-        "fingerprint": "24B156_24H241_24N124",
-        "ios_build": "24B156",
+        "fingerprint": "23H131_24H241_24N124",
+        "ios_build": "23H131",
         "macos_build": "24H241",
-        "updated_at": "2026-11-26T02:01:31Z",
+        "updated_at": "2026-11-27T02:01:24Z",
         "visionos_build": "24N124"
       }
     }
@@ -197,10 +197,10 @@
   "fcs_keys_stable": {
     "fcs_keys": {
       "release": {
-        "fingerprint": "24B156_24H241_24N124",
-        "ios_build": "24B156",
+        "fingerprint": "23H131_24H241_24N124",
+        "ios_build": "23H131",
         "macos_build": "24H241",
-        "updated_at": "2026-11-26T02:01:31Z",
+        "updated_at": "2026-11-27T02:01:24Z",
         "visionos_build": "24N124"
       }
     }
